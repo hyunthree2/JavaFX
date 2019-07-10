@@ -1,0 +1,8 @@
+.comboBox {
+-fx-background-color: #ffffff;
+    -fx-background-insets: 0;
+    -fx-border-color: #B3B9BF;
+    -fx-border-radius: 2px;
+    -fx-max-height: 32px;
+    -fx-padding: -3,0,-3,0;
+}
